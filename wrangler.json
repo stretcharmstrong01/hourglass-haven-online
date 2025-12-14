@@ -1,4 +1,5 @@
-{"name": "worker-name",
-  "compatibility_date": "2025-12-14", 	 
-  "main": "src/index.ts" 	
+{
+"name": "worker-name",
+"compatibility_date": "2025-12-14",
+"main": "src/index.ts"
 }
