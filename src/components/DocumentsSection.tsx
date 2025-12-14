@@ -14,12 +14,12 @@ import { toast } from "@/hooks/use-toast";
 const documents = [
   {
     title: "2025 YTD Financials",
-    url: "https://hourglasshoa.com/docs/ytdactuals.pdf",
+    url: "/ytdactuals.pdf",
     protected: true,
   },
   {
     title: "HOA Insurance",
-    url: "https://hourglasshoa.com/docs/HourglassFarmersInsurance2025.pdf",
+    url: "/HourglassFarmersInsurance2025.pdf",
     protected: true,
   },
   {
@@ -29,12 +29,12 @@ const documents = [
   },
   {
     title: "City of Ketchum Short Term Rental Ordinance",
-    url: "https://hourglasshoa.com/docs/City_of_Ketchum_Short_Term_Rental.pdf",
+    url: "/City_of_Ketchum_Short_Term_Rental.pdf",
     protected: false,
   },
   {
     title: "City of Ketchum Short Term Rental Insurance Requirements",
-    url: "https://hourglasshoa.com/docs/Ketchum_short_term%20_rental-insurance-requirement.pdf",
+    url: "/Ketchum_short_term%20_rental-insurance-requirement.pdf",
     protected: false,
   },
 ];
