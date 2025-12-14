@@ -9,14 +9,14 @@ import { useState } from "react";
 const currentNewsletter = {
   title: "Fall 2025 Newsletter",
   date: "Fall 2025",
-  url: "https://hourglasshoa.com/newsletters/Fall2025.pdf",
+  url: "/Fall2025.pdf",
 };
 
 const pastNewsletters = [
   {
     title: "Spring 2025 Newsletter",
     date: "Spring 2025",
-    url: "https://hourglasshoa.com/newsletters/Spring2025.pdf",
+    url: "/Spring2025.pdf",
   },
 ];
 
