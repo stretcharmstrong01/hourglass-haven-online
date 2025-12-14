@@ -24,7 +24,7 @@ const documents = [
   },
   {
     title: "Covenants, Conditions, and Restrictions (CC&Rs) for the Hourglass Townhomes",
-    url: "https://hourglasshoa.com/docs/ccrs.pdf",
+    url: "/Amended CC&Rs 11.19.25.pdf",
     protected: true,
   },
   {
