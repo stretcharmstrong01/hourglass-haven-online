@@ -23,6 +23,11 @@ const documents = [
     protected: true,
   },
   {
+    title: "Covenants, Conditions, and Restrictions (CC&Rs) for the Hourglass Townhomes",
+    url: "https://hourglasshoa.com/docs/ccrs.pdf",
+    protected: true,
+  },
+  {
     title: "City of Ketchum Short Term Rental Ordinance",
     url: "https://hourglasshoa.com/docs/City_of_Ketchum_Short_Term_Rental.pdf",
     protected: false,
